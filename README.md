@@ -7,16 +7,13 @@
   I'm a Computer Systems Engineering student and developer who loves building things with clean code and creativity. 
   Whether it's <b>Artificial Intelligence</b>, front-end interfaces, or full-stack solutions, I care about making digital experiences that work.
 </p>
-<p align="center">
-  <b>Samsung Innovation Campus Alumna | AI & NLP Enthusiast</b>
-</p>
 </div>
 
 <br>
 
 ## 👩‍💻 About me
 - 🎓 **8th Semester Computer Systems Engineering** student
-- 🤖 **AI & NLP Specialist** focusing on text classification and sentiment analysis
+- 🤖 **Interested in AI & NLP** 
 - 📲 **Full-Stack Developer** (Angular, Firebase, Node.js)
 - 👩‍🏫 **Teaching Volunteer** & Academic Tutor
 <br>
