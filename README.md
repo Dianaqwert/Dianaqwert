@@ -13,8 +13,7 @@
 
 ## 👩‍💻 About me
 - 🎓 **8th Semester Computer Systems Engineering** student
-- 🤖 **Interested in AI & NLP** 
-- 📲 **Full-Stack Developer** (Angular, Firebase, Node.js)
+- 🤖 **Interested in AI & NLP** - 📲 **Full-Stack Developer** (Angular, Firebase, Node.js)
 - 👩‍🏫 **Teaching Volunteer** & Academic Tutor
 <br>
 
@@ -39,8 +38,8 @@
   </a>
 </p>
 
+<br>
 
-### ✨ Project Highlights
 ### ✨ Project Highlights
 <table>
   <tr>
@@ -71,6 +70,9 @@
     </td>
   </tr>
 </table>
+
+<br>
+
 ### 📊 GitHub Stats
 
 <p align="center">
