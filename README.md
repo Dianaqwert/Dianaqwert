@@ -66,7 +66,7 @@
   <h3 align="center">🏎️ SPA Raeda Cars In Motion</h3>
   <div align="center">
     <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
-      <img width="1280" height="614" alt="image" src="https://github.com/user-attachments/assets/b4be7ab3-ad45-4260-9f4b-9600dbc17e38" />
+      <img width="1857" height="902" alt="image" src="https://github.com/user-attachments/assets/b4be7ab3-ad45-4260-9f4b-9600dbc17e38" />
     </a>
     <p>
       <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
