@@ -48,11 +48,11 @@
       <h3 align="center">🐳 Ballena Azul (Lonely Whale)</h3>
       <div align="center">
         <a target="_blank" href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat">
-          <img width="400" alt="Ballena Azul Chatbot Interface" src="AQUÍ_PEGA_TU_NUEVO_LINK_A_LA_IMAGEN_BALANCEADA" />
+          <img width="1857" height="902" alt="Captura de pantalla 2026-04-09 195353" src="https://github.com/user-attachments/assets/8747d592-6338-48c7-a7d9-d12d752d6448" />
         </a>
         <p>
           <a href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat" target="_blank">
-            <img width="1857" height="902" alt="Captura de pantalla 2026-04-09 195353" src="https://github.com/user-attachments/assets/76672bf1-b651-4e4b-809b-1d61683a93e7" />
+             <img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black">
 
           </a>
         </p>
@@ -66,7 +66,7 @@
   <h3 align="center">🏎️ SPA Raeda Cars In Motion</h3>
   <div align="center">
     <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
-      <img width="400" alt="Raeda Cars Single Page App" src="AQUÍ_PEGA_TU_NUEVO_LINK_A_LA_IMAGEN_BALANCEADA" />
+      <img width="1280" height="614" alt="image" src="https://github.com/user-attachments/assets/b4be7ab3-ad45-4260-9f4b-9600dbc17e38" />
     </a>
     <p>
       <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
