@@ -4,91 +4,88 @@
 <h1 align="center">Hey, I'm <span>Diana González</span> 👋</h1>
 
 <p align="center">
-  I'm a developer who loves building things with clean code and creativity. Whether it's front-end interfaces or full-stack solutions, I care about making great digital experiences that actually work.
+  I'm a Computer Systems Engineering student and developer who loves building things with clean code and creativity. 
+  Whether it's <b>Artificial Intelligence</b>, front-end interfaces, or full-stack solutions, I care about making digital experiences that work.
 </p>
 <p align="center">
-  Currently learning, building, and sharing everything I can.
+  <b>Samsung Innovation Campus Alumna | AI & NLP Enthusiast</b>
 </p>
 </div>
 
 <br>
 
-## About me
-- 📚 Computer Systems Engineering student  
-- 📲 Front-End Developer  
-- 🤖 Interested in AI  
-- 📘 Constantly learning new technologies  
+## 👩‍💻 About me
+- 🎓 **8th Semester Computer Systems Engineering** student
+- 🤖 **AI & NLP Specialist** focusing on text classification and sentiment analysis
+- 📲 **Full-Stack Developer** (Angular, Firebase, Node.js)
+- 👩‍🏫 **Teaching Volunteer** & Academic Tutor
 <br>
 
-## 💻Technologies & Tools
+## 💻 Technologies & Tools
 
-### Languages:
-- [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&link=https://github.com/Dianaqwert)](https://github.com/Dianaqwert)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Java Script](https://img.shields.io/badge/Deepening_knowledge-JavaScript-blue?style=flat&logo=javascript)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
+### 🧠 Artificial Intelligence & Data Science:
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![NLP](https://img.shields.io/badge/-NLP-FF6F00?style=flat&logo=scikit-learn&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-3F51B5?style=flat&logo=google-colab&logoColor=white)
+- ![RoBERTuito](https://img.shields.io/badge/-Fine--Tuning_RoBERTuito-red?style=flat)
 
-### Frameworks:
-- ![Phaser](https://img.shields.io/badge/Phaser-ff0000?style=flat&logo=phaser&logoColor=white)
-- [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-- ![Currently Learning](https://img.shields.io/badge/Currently_Learning-Angular-DD0031?style=flat&logo=angular)
+### 🌐 Development:
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-### Tools:
+### 🛠️ Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,bash,qt,mysql,neatbeans&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,bash,mysql,py,kotlin&perline=12" />
   </a>
 </p>
 
-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea)
-- ![NetBeans](https://img.shields.io/badge/-NetBeans-000000?style=flat&logo=apache-netbeans)
-- ![EMU 8086](https://img.shields.io/badge/-EMU%208086-000000?style=flat&logo=windows)
-- ![Dev C++](https://img.shields.io/badge/-Dev%20C++-4EAA25?style=flat&logo=dev-to)
-
 <br>
 
-## ✨Project *highlights*
+## ✨ Featured Projects
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Interactive Mini Game in Phaser.js</h3>
+      <h3 align="center">🐳 Ballena Azul (Lonely Whale)</h3>
       <div align="center">
         <a target="_blank" href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat">
-          <img width="400" src="https://github.com/user-attachments/assets/3cf513ab-9931-4d3d-8571-2da4f4575c03" alt="Mini Game Preview">
+          <img width="400" src="https://github.com/user-attachments/assets/3cf513ab-9931-4d3d-8571-2da4f4575c03" alt="Ballena Azul Preview">
         </a>
         <p>
           <a href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>
-          This project involves the development of a two-level web-based video game using the <strong>Phaser.js</strong> framework. 
-          It was created <strong>collaboratively</strong> as part of an academic activity, with version control managed through Git and GitHub.
+          <b>AI-Powered Chatbot</b> for psychographic profiling and sentiment analysis. Built using <b>NLP (RoBERTuito)</b> and <b>K-Means Clustering</b> to identify emotional patterns, helping in early detection of depression symptoms.
         </p>
       </div>
     </td>
 
   <td width="50%">
-  <h3 align="center">🧩 Gravity Falls: C++ Adventure Game</h3>
+  <h3 align="center">🏎️ SPA Raeda Cars In Motion</h3>
   <div align="center">
     <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
-      <img width="400" src="https://private-user-images.githubusercontent.com/115169222/437116853-168c3a02-6923-4343-b6cb-3cdd84c39ff7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU1MjE5NzMsIm5iZiI6MTc0NTUyMTY3MywicGF0aCI6Ii8xMTUxNjkyMjIvNDM3MTE2ODUzLTE2OGMzYTAyLTY5MjMtNDM0My1iNmNiLTNjZGQ4NGMzOWZmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyNFQxOTA3NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iY2Y2ZTk1M2YxMzljZDFmY2ZmOTdjNTNhODMyMzE2ZDE4ZDcyYmZlMmUzNzY0N2IwNWQ3YjhlNDc2NGMyYmIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TuQbNWXK4h-C1sktPx3vet3gF8ChrTHL0l48cwLiVPE" alt="Gravity Falls Game Preview">
+      <img width="400" src="https://private-user-images.githubusercontent.com/115169222/437116853-168c3a02-6923-4343-b6cb-3cdd84c39ff7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU1MjE5NzMsIm5iZiI6MTc0NTUyMTY3MywicGF0aCI6Ii8xMTUxNjkyMjIvNDM3MTE2ODUzLTE2OGMzYTAyLTY5MjMtNDM0My1iNmNiLTNjZGQ4NGMzOWZmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyNFQxOTA3NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iY2Y2ZTk1M2YxMzljZDFmY2ZmOTdjNTNhODMyMzE2ZDE4ZDcyYmZlMmUzNzY0N2IwNWQ3YjhlNDc2NGMyYmIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TuQbNWXK4h-C1sktPx3vet3gF8ChrTHL0l48cwLiVPE" alt="Raeda Cars Preview">
     </a>
     <p>
       <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
         <img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-    <p> A console-based adventure game developed in C++ inspired by the *Gravity Falls* series. This project showcases object-oriented programming principles, including class hierarchies and encapsulation, to create an interactive experience.</p>
+    <p> 
+      A modern <b>Single Page Application (SPA)</b> for vehicle management and car rental services. Developed with <b>Angular</b> and <b>Firebase</b>, featuring real-time updates, responsive UI, and secure authentication.
+    </p>
   </div>
 </td>
-
   </tr>
 </table>
 
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
 <a href="https://github.com/Dianaqwert">
@@ -99,11 +96,7 @@
 
 <br>
 
-## 📠Connect with Me
-- #### Linkedin:[Linkedin](https://www.linkedin.com/in/dianaesmeraldagonzalezrivera/)
-- #### E-mail : dianaesmeraldagonzalezrivera@gmail.com
-
-<br>
-
-## 👁️Portafolio web:
-- #### https://dianaqwert.github.io/
+## 📫 Connect with Me
+- **LinkedIn:** [Diana Esmeralda González Rivera](https://www.linkedin.com/in/dianaesmeraldagonzalezrivera/)
+- **Email:** dianaesmeraldagonzalezrivera@gmail.com
+- **Web Portfolio:** [dianaqwert.github.io](https://dianaqwert.github.io/)
