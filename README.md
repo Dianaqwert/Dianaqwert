@@ -52,7 +52,8 @@
         </a>
         <p>
           <a href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black">
+            <img width="1857" height="902" alt="Captura de pantalla 2026-04-09 195353" src="https://github.com/user-attachments/assets/76672bf1-b651-4e4b-809b-1d61683a93e7" />
+
           </a>
         </p>
         <p>
