@@ -46,9 +46,13 @@
     <td width="50%">
       <h3 align="center">🐳 Ballena Azul (Lonely Whale)</h3>
       <div align="center">
-        <a target="_blank" href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat"><img width="1857" height="902" alt="Ballena Azul Project" src="https://github.com/user-attachments/assets/970002c2-af18-4342-9007-a58bee539992" /></a>
+        <a target="_blank" href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat">
+          <img width="1857" height="902" alt="Ballena Azul Project" src="https://github.com/user-attachments/assets/970002c2-af18-4342-9007-a58bee539992" />
+        </a>
         <p>
-          <a href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black"></a>
+          <a href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black">
+          </a>
         </p>
         <p>
           <b>AI-Powered Chatbot</b> for psychographic profiling and sentiment analysis. Built using <b>NLP (RoBERTuito)</b> and <b>K-Means Clustering</b> to identify emotional patterns, helping in early detection of depression symptoms.
@@ -59,7 +63,9 @@
     <td width="50%">
       <h3 align="center">🏎️ SPA Raeda Cars In Motion</h3>
       <div align="center">
-        <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank"><img width="1857" height="902" alt="Raeda Cars Project" src="https://github.com/user-attachments/assets/71b3c755-f2b4-4331-a12e-1980d1b0ff03" /></a>
+        <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
+        <img width="1857" height="902" alt="image" src="https://github.com/user-attachments/assets/0060689e-17c6-479b-9a8d-8cfdbb1087b6" />
+        </a>
         <p>
           <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black"></a>
         </p>
