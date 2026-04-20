@@ -41,43 +41,43 @@
 
 <br>
 
-## ✨ Featured Projects
+## ✨ Project Highlights
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🐳 Ballena Azul (Lonely Whale)</h3>
-      <div align="center">
-        <a target="_blank" href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat">
-          <img width="400" height="919" alt="Captura de pantalla 2026-04-06 121215" src="https://github.com/user-attachments/assets/63ba1889-e0c0-4657-86b0-6342a7458004" />
-        </a>
-        <p>
-          <a href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-        <p>
-          <b>AI-Powered Chatbot</b> for psychographic profiling and sentiment analysis. Built using <b>NLP (RoBERTuito)</b> and <b>K-Means Clustering</b> to identify emotional patterns, helping in early detection of depression symptoms.
-        </p>
-      </div>
-    </td>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐳 Ballena Azul (Lonely Whale)</h3>
+      <div align="center">
+        <a target="_blank" href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat">
+          <img width="400" alt="Ballena Azul Chatbot Interface" src="AQUÍ_PEGA_TU_NUEVO_LINK_A_LA_IMAGEN_BALANCEADA" />
+        </a>
+        <p>
+          <a href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          <b>AI-Powered Chatbot</b> for psychographic profiling and sentiment analysis. Built using <b>NLP (RoBERTuito)</b> and <b>K-Means Clustering</b> to identify emotional patterns, helping in early detection of depression symptoms.
+        </p>
+      </div>
+    </td>
 
-  <td width="50%">
-  <h3 align="center">🏎️ SPA Raeda Cars In Motion</h3>
-  <div align="center">
-    <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
-      <img width="400" height="1754" alt="image" src="https://github.com/user-attachments/assets/be25058c-2d68-41c3-b8eb-c93e3ba38d83" />
-    </a>
-    <p>
-      <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p> 
-      A modern <b>Single Page Application (SPA)</b> for vehicle management and car rental services. Developed with <b>Angular</b> and <b>Firebase</b>, featuring real-time updates, responsive UI, and secure authentication.
-    </p>
-  </div>
+  <td width="50%">
+  <h3 align="center">🏎️ SPA Raeda Cars In Motion</h3>
+  <div align="center">
+    <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
+      <img width="400" alt="Raeda Cars Single Page App" src="AQUÍ_PEGA_TU_NUEVO_LINK_A_LA_IMAGEN_BALANCEADA" />
+    </a>
+    <p>
+      <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-EBD3F8?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p> 
+      A modern <b>Single Page Application (SPA)</b> for vehicle management and car rental services. Developed with <b>Angular</b> and <b>Firebase</b>, featuring real-time updates, responsive UI, and secure authentication.
+    </p>
+  </div>
 </td>
-  </tr>
+  </tr>
 </table>
 
 <br>
