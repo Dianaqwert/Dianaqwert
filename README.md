@@ -48,7 +48,7 @@
       <h3 align="center">🐳 Ballena Azul (Lonely Whale)</h3>
       <div align="center">
         <a target="_blank" href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat">
-          <img width="400" src="https://github.com/user-attachments/assets/3cf513ab-9931-4d3d-8571-2da4f4575c03" alt="Ballena Azul Preview">
+          <img width="400" height="919" alt="Captura de pantalla 2026-04-06 121215" src="https://github.com/user-attachments/assets/63ba1889-e0c0-4657-86b0-6342a7458004" />
         </a>
         <p>
           <a href="https://github.com/Dianaqwert/BallenaAzul_DepressionChat" target="_blank">
@@ -65,7 +65,7 @@
   <h3 align="center">🏎️ SPA Raeda Cars In Motion</h3>
   <div align="center">
     <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
-      <img width="400" src="https://private-user-images.githubusercontent.com/115169222/437116853-168c3a02-6923-4343-b6cb-3cdd84c39ff7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU1MjE5NzMsIm5iZiI6MTc0NTUyMTY3MywicGF0aCI6Ii8xMTUxNjkyMjIvNDM3MTE2ODUzLTE2OGMzYTAyLTY5MjMtNDM0My1iNmNiLTNjZGQ4NGMzOWZmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyNFQxOTA3NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iY2Y2ZTk1M2YxMzljZDFmY2ZmOTdjNTNhODMyMzE2ZDE4ZDcyYmZlMmUzNzY0N2IwNWQ3YjhlNDc2NGMyYmIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TuQbNWXK4h-C1sktPx3vet3gF8ChrTHL0l48cwLiVPE" alt="Raeda Cars Preview">
+      <img width="400" height="1754" alt="image" src="https://github.com/user-attachments/assets/be25058c-2d68-41c3-b8eb-c93e3ba38d83" />
     </a>
     <p>
       <a href="https://github.com/Dianaqwert/SPA_RaedaCarsInMotion" target="_blank">
